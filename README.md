@@ -2,17 +2,24 @@
 
 ## **AI & Data Science Enthusiast | Full Stack Developer**
 
-💡 Passionate about building innovative and scalable web applications, solving complex problems with AI, and exploring the intersection of technology and data. 
+<div align="right">
+ <img src="https://raw.githubusercontent.com/shubhampandey78/shubhampandey78/main/Final.png" alt="coding" align="right" width="200">
+</div>
+
+
+💡 Passionate about building innovative and scalable web applications, solving complex problems with AI, and exploring the intersection of technology and data.  
 Currently pursuing a **Bachelor’s in Artificial Intelligence and Data Science** at **TSEC**.
 
----
+<br>
+
+
 
 ## 🚀 **What I'm working on:**
 - 🔥 Developing **AI-powered applications** and full-stack projects.
 - 🧠 Enhancing my skills in **Machine Learning & Deep Learning**.
 - ☁️ Exploring **Cloud Computing** and **DevOps** for scalable solutions.
 
----
+<br>
 
 ## 🛠 **Tech Stack:**
 
@@ -34,14 +41,14 @@ Currently pursuing a **Bachelor’s in Artificial Intelligence and Data Science*
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
----
+<br>
 
 ## 📫 **Let's Connect!**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-pandey-840ba324b/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white)](https://yourportfolio.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubhampandey78)  
 
----
+<br>
 
 ## ⚡ **Fun Fact:**
 I love **problem-solving**, **exploring new tech**, and **swimming** in my free time! ⚽🚀
