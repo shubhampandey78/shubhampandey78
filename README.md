@@ -8,7 +8,7 @@
 
 
 💡 Passionate about building innovative and scalable web applications, solving complex problems with AI, and exploring the intersection of technology and data.  
-Currently pursuing a **Bachelor’s in Artificial Intelligence and Data Science** at **TSEC**.
+Currently pursuing  **Bachelor’s degree in Artificial Intelligence and Data Science** at **TSEC**.
 
 <br>
 
