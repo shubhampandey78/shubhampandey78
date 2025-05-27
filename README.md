@@ -12,7 +12,7 @@ Currently pursuing  **Bachelor’s degree in Artificial Intelligence and Data Sc
 
 <br>
 
-
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=shubhampandey78)
 
 ## 🚀 **What I'm working on:**
 - 🔥 Developing **AI-powered applications** and full-stack projects.
