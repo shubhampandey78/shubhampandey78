@@ -13,9 +13,9 @@ Currently pursuing  **Bachelor’s degree in Artificial Intelligence and Data Sc
 <br>
 
 ## 🚀 **What I'm working on:**
-- 🔥 Developing **AI-powered applications** and full-stack projects.
+- 🔥 Developing **AI-powered applications**.
 - 🧠 Enhancing my skills in **Machine Learning & Deep Learning**.
-- ☁️ Exploring **Cloud Computing** and **DevOps** for scalable solutions.
+- ☁️ Exploring **Cloud Computing** for scalable solutions.
 
 <br>
 
